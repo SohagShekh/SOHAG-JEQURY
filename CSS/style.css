@@ -1,0 +1,133 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    background-image: url(../bg-esl.jpg);
+    background-size: cover;
+}
+
+.ani {
+    background: #000000b3;
+    padding: 10px;
+    color: white;
+}
+
+.work-1 {
+    text-align: center;
+    margin-top: 30px;
+}
+
+.p1 {
+    display: none;
+    font-size: 20px;
+    margin-left: 200px;
+    margin-right: 200px;
+    background: #000000b3;
+    padding: 20px 25px;
+    color: #ffffff;
+    border-radius: 10px;
+}
+
+.btn1 {
+    padding: 13px 30px;
+    font-size: 16px;
+    background: radial-gradient(circle, rgba(236, 239, 240, 1) 0%, rgba(135, 120, 167, 1) 0%, rgba(18, 23, 159, 1) 100%);
+    color: #ffffff;
+    margin-top: 10px;
+    border-radius: 30px 5px;
+    border: none;
+}
+
+.btn:hover {
+    color: white;
+    transition: 2s;
+    background: black;
+}
+
+.work-2 {
+    text-align: center;
+    margin-top: 20px;
+    margin-bottom: 25px;
+}
+
+.btn2 {
+    margin-top: 10px;
+    padding: 13px 30px;
+    font-size: 16px;
+    border-radius: 30px 5px;
+    background: radial-gradient(circle, rgba(236, 239, 240, 1) 0%, rgba(135, 120, 167, 1) 0%, rgba(18, 23, 159, 1) 100%);
+    color: #ffffff;
+    margin-right: 20px;
+}
+
+.btn3 {
+    margin-top: 10px;
+    padding: 13px 30px;
+    font-size: 16px;
+    border-radius: 30px 5px;
+    background: radial-gradient(circle, rgba(236, 239, 240, 1) 0%, rgba(135, 120, 167, 1) 0%, rgba(18, 23, 159, 1) 100%);
+    color: #ffffff;
+    margin-left: 20px;
+}
+
+.p2 {
+    background: #000000b3;
+    color: #ffffff;
+    padding: 80px 50px;
+    margin-left: 200px;
+    margin-right: 200px;
+    font-size: 20px;
+    border-radius: 10px;
+}
+
+.work-3 {
+    border-radius: 10px;
+}
+
+.work-3 h2 {
+    width: 960px;
+    background: black;
+    color: white;
+    text-align: center;
+    padding: 10px;
+    margin: auto;
+    cursor: pointer;
+    font-size: 30px;
+}
+
+.work-3 .p3 {
+    width: 960px;
+    background: #000000b3;
+    color: white;
+    text-align: center;
+    padding: 10px;
+    margin: auto;
+    display: none;
+    font-size: 17px;
+    display: none;
+}
+
+.work-4 {
+    text-align: center;
+    margin: 20px 0;
+}
+
+.box {
+    width: 100px;
+    height: 100px;
+    background: radial-gradient(circle, rgba(236, 239, 240, 1) 0%, rgba(152, 120, 167, 1) 0%, rgba(79, 18, 159, 1) 100%);
+    margin-top: 50px;
+    position: relative;
+    border-radius: 50%;
+}
+
+.work-4 .btn4 {
+    padding: 13px 30px;
+    font-size: 16px;
+    background: radial-gradient(circle, rgba(236, 239, 240, 1) 0%, rgba(135, 120, 167, 1) 0%, rgba(18, 23, 159, 1) 100%);
+    color: white;
+    border: none;
+    border-radius: 30px 5px;
+}
